@@ -1,0 +1,55 @@
+[Index in population: 0      Sprite: Clones/KenClone-gray21
+     Score: 845056
+     Population: 157
+, Index in population: 1      Sprite: Clones/KenClone-gray60
+     Score: 845056
+     Population: 157
+, Index in population: 2      Sprite: Clones/KenClone-sgigray72
+     Score: 845056
+     Population: 157
+, Index in population: 3      Sprite: Clones/KenClone-sapgreen
+     Score: 835056
+     Population: 157
+, Index in population: 4      Sprite: Clones/KenClone-bisque3
+     Score: 835056
+     Population: 157
+, Index in population: 5      Sprite: Clones/KenClone-limegreen
+     Score: 835056
+     Population: 157
+, Index in population: 6      Sprite: Clones/KenClone-navajowhite4
+     Score: 675026
+     Population: 157
+, Index in population: 7      Sprite: Clones/KenClone-gray45
+     Score: 0
+     Population: 157
+, Index in population: 8      Sprite: Clones/KenClone-ivory2
+     Score: 0
+     Population: 157
+, Index in population: 9      Sprite: Clones/KenClone-chocolate
+     Score: 0
+     Population: 157
+, Index in population: 10      Sprite: Clones/KenClone-orangered1
+     Score: 0
+     Population: 157
+, Index in population: 11      Sprite: Clones/KenClone-hotpink1
+     Score: 0
+     Population: 157
+, Index in population: 12      Sprite: Clones/KenClone-chocolate4
+     Score: 0
+     Population: 157
+, Index in population: 13      Sprite: Clones/KenClone-honeydew4
+     Score: 0
+     Population: 157
+, Index in population: 14      Sprite: Clones/KenClone-white
+     Score: 0
+     Population: 157
+, Index in population: 15      Sprite: Clones/KenClone-gray26
+     Score: 0
+     Population: 157
+, Index in population: 16      Sprite: Clones/KenClone-orange4
+     Score: 0
+     Population: 157
+, Index in population: 17      Sprite: Clones/KenClone-olive
+     Score: 0
+     Population: 157
+]

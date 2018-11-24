@@ -1,0 +1,73 @@
+[Index in population: 0      Sprite: Clones/KenClone-mistyrose1
+     Score: 165056
+     Population: 1019
+    Color: mistyrose1
+, Index in population: 1      Sprite: Clones/KenClone-lightblue1
+     Score: 165056
+     Population: 1019
+    Color: lightblue1
+, Index in population: 2      Sprite: Clones/KenClone-bisque2
+     Score: 145056
+     Population: 1019
+    Color: bisque2
+, Index in population: 3      Sprite: Clones/KenClone-chartreuse3
+     Score: 145056
+     Population: 1019
+    Color: chartreuse3
+, Index in population: 4      Sprite: Clones/KenClone-plum1
+     Score: 15812
+     Population: 1019
+    Color: plum1
+, Index in population: 5      Sprite: Clones/KenClone-khaki2
+     Score: 11120
+     Population: 1019
+    Color: khaki2
+, Index in population: 6      Sprite: Clones/KenClone-gray89
+     Score: 5074
+     Population: 1019
+    Color: gray89
+, Index in population: 7      Sprite: Clones/KenClone-gray86
+     Score: 0
+     Population: 1019
+    Color: gray86
+, Index in population: 8      Sprite: Clones/KenClone-burlywood1
+     Score: 0
+     Population: 1019
+    Color: burlywood1
+, Index in population: 9      Sprite: Clones/KenClone-gray37
+     Score: 0
+     Population: 1019
+    Color: gray37
+, Index in population: 10      Sprite: Clones/KenClone-darkolivegreen4
+     Score: 0
+     Population: 1019
+    Color: darkolivegreen4
+, Index in population: 11      Sprite: Clones/KenClone-lightsteelblue1
+     Score: 0
+     Population: 1019
+    Color: lightsteelblue1
+, Index in population: 12      Sprite: Clones/KenClone-olivedrab3
+     Score: 0
+     Population: 1019
+    Color: olivedrab3
+, Index in population: 13      Sprite: Clones/KenClone-lightsalmon3
+     Score: 0
+     Population: 1019
+    Color: lightsalmon3
+, Index in population: 14      Sprite: Clones/KenClone-ivory3
+     Score: 0
+     Population: 1019
+    Color: ivory3
+, Index in population: 15      Sprite: Clones/KenClone-cyan3
+     Score: 0
+     Population: 1019
+    Color: cyan3
+, Index in population: 16      Sprite: Clones/KenClone-raspberry
+     Score: 0
+     Population: 1019
+    Color: raspberry
+, Index in population: 17      Sprite: Clones/KenClone-ivory4
+     Score: 0
+     Population: 1019
+    Color: ivory4
+]

@@ -1,0 +1,49 @@
+[Index in population: 0      Sprite: Clones/KenClone-aqua
+     Score: 145056
+     Population: 74
+    Color: aqua
+, Index in population: 1      Sprite: Clones/KenClone-gray65
+     Score: 135056
+     Population: 74
+    Color: gray65
+, Index in population: 2      Sprite: Clones/KenClone-dodgerblue2
+     Score: 125056
+     Population: 74
+    Color: dodgerblue2
+, Index in population: 3      Sprite: Clones/KenClone-whitesmoke
+     Score: 41296
+     Population: 74
+    Color: whitesmoke
+, Index in population: 4      Sprite: Clones/KenClone-darkseagreen1
+     Score: 0
+     Population: 74
+    Color: darkseagreen1
+, Index in population: 5      Sprite: Clones/KenClone-seashell2
+     Score: 0
+     Population: 74
+    Color: seashell2
+, Index in population: 6      Sprite: Clones/KenClone-bisque2
+     Score: 0
+     Population: 74
+    Color: bisque2
+, Index in population: 7      Sprite: Clones/KenClone-sgichartreuse
+     Score: 0
+     Population: 74
+    Color: sgichartreuse
+, Index in population: 8      Sprite: Clones/KenClone-lightgrey
+     Score: 0
+     Population: 74
+    Color: lightgrey
+, Index in population: 9      Sprite: Clones/KenClone-gold2
+     Score: 0
+     Population: 74
+    Color: gold2
+, Index in population: 10      Sprite: Clones/KenClone-yellow2
+     Score: 0
+     Population: 74
+    Color: yellow2
+, Index in population: 11      Sprite: Clones/KenClone-indianred1
+     Score: 0
+     Population: 74
+    Color: indianred1
+]
